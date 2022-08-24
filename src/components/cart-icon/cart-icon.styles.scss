@@ -1,4 +1,4 @@
-cart-icon-container {
+.cart-icon-container {
   width: 45px;
   height: 45px;
   position: relative;
@@ -6,6 +6,7 @@ cart-icon-container {
   align-items: center;
   justify-content: center;
   cursor: pointer;
+
   .shopping-icon {
     width: 24px;
     height: 24px;
